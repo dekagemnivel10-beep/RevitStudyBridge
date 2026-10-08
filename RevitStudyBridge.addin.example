@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Revit Study Bridge</Name>
+    <Assembly>REPLACE_WITH_ABSOLUTE_PATH_TO_RevitStudyBridge.dll</Assembly>
+    <AddInId>97170cce-4919-47e6-b4c7-795d1404d93e</AddInId>
+    <FullClassName>RevitStudyBridge.Command</FullClassName>
+    <VendorId>RSBR</VendorId>
+    <VendorDescription>Local read-only study bridge</VendorDescription>
+  </AddIn>
+</RevitAddIns>
